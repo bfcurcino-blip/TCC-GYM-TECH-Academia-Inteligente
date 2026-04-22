@@ -12,9 +12,9 @@ Desenvolver uma solução digital que auxilie profissionais de educação físic
 - JavaScript  
 
 ## 👥 Equipe
-- Bianca
-- Carolina
-- Carlos
-- Marcelo    
-- Nicolas
-- Roger   
+- Bianca da Silva Fernandes Curcino
+- Carolina Aparecida Monteiro
+- Carlos Henrique de Oliveira Laurentino 
+- Marcelo Di Lorenzi Andreoni 
+- Nicolas Takashi Nohongi
+- Roger Presser de Paula
