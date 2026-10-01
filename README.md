@@ -97,7 +97,8 @@ O projeto está sendo desenvolvido utilizando:
 - **SQL** — criação e manipulação das estruturas do banco de dados;
 - **XAMPP** — ambiente local utilizado para execução do Apache e MySQL;
 - **phpMyAdmin** — gerenciamento e testes do banco de dados;
-- **Visual Studio Code** — desenvolvimento e edição do código.
+- **Visual Studio Code** — desenvolvimento e edição do código;
+- **Git e GitHub** — versionamento, armazenamento e compartilhamento dos arquivos do projeto.
 
 ## Banco de dados
 
